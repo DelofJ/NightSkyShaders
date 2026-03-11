@@ -7,8 +7,10 @@ And the original resourcepack was uploaded on [this Reddit post](https://www.red
 He gave me the authorization to update and upload it on platforms like Modrinth and GitHub\
 A huge thanks to him
 ## Compatibility
-Every Minecraft versions starting from Minecraft 1.17
+Every Minecraft versions starting from Minecraft 1.17\
+(expect for 1.21.5 because Mojang broke the `ScreenSize` uniform)
 ## Download
 Go to the [releases](https://github.com/DelofJ/NightSkyShaders/releases) and download it for your version of Minecraft
 ## What it looks like
+
 ![Screenshot1](https://raw.githubusercontent.com/DelofJ/NightSkyShaders/main/screenshot1.png)
